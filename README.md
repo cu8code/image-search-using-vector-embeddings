@@ -4,6 +4,10 @@ This repository contains an **Image Search Engine** built using **Next.js** for 
 
 ---
 
+![image](https://github.com/user-attachments/assets/85eaacb4-ae96-4fcd-b5e1-367a13386c4f)
+
+
+
 ## 🚀 Features
 
 - **Fast Image Retrieval**: Utilizes the power of OpenAI's CLIP model for efficient image search.
